@@ -4,7 +4,7 @@
 
 > Dashboard Admin Responsivo!!
 
-[Clique aqui para acessar](https://spectacular-tulumba-ff58eb.netlify.app/)
+[Clique aqui para acessar](https://projeto-dashboard-admin.netlify.app/)
 
 ## 🛠️Tecnologias
 
